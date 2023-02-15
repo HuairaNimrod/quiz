@@ -1,0 +1,5 @@
+{"quiz":[
+	{"question":"What national team won the last Soccer World Cup?", "options":["France","Argentina","Brasil"], "answer":"1" },
+	{"question":"What is the lastname of Romeo from the play written by W. Shakespeare", "options":["Capulet","Mostequeu","Montague"], "answer":"2" },
+	{"question":"Find the next value  1, 1, 2, 3, 5, ? ", "options":["8","7","9"], "answer":"0" }
+]}
