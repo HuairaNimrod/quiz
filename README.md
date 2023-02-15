@@ -16,4 +16,4 @@ Javascript
 
 # Future Work
 
-* Display every question in on page
+* Display every question in a full page
