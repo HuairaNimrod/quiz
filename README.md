@@ -1,6 +1,6 @@
 # Overview
 
-The application was builded with the intention to have a quiz using JS and HTML, the questions were populated from a JSON, there's also a validation that triggers and alert when the quiz is being submitted without marking all the questions.
+The application was built with the intention to have a quiz using JS and HTML, the questions were populated from a JSON, there's also a validation that triggers and alert when the quiz is being submitted without marking all the questions.
 
 # Development Environment
 
